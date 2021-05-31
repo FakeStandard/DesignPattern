@@ -1,0 +1,13 @@
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.exe
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.json
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.dev.json
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+D:\2.Project\SideProject\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
+D:\2.Project\SideProject\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.genruntimeconfig.cache
