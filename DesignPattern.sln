@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{2BA8E5C5-C652-46AC-8ED2-F41E10E79983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-factory-pattern", "Simple-factory-pattern\Simple-factory-pattern.csproj", "{276AB73A-16EE-4E1E-B17A-CD706F9A0D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object-Oriented-Programming", "Object-Oriented-Programming\Object-Oriented-Programming.csproj", "{DB22A335-ECA3-4792-BDEF-65B4AF121349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2BA8E5C5-C652-46AC-8ED2-F41E10E79983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BA8E5C5-C652-46AC-8ED2-F41E10E79983}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BA8E5C5-C652-46AC-8ED2-F41E10E79983}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BA8E5C5-C652-46AC-8ED2-F41E10E79983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276AB73A-16EE-4E1E-B17A-CD706F9A0D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276AB73A-16EE-4E1E-B17A-CD706F9A0D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276AB73A-16EE-4E1E-B17A-CD706F9A0D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276AB73A-16EE-4E1E-B17A-CD706F9A0D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB22A335-ECA3-4792-BDEF-65B4AF121349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB22A335-ECA3-4792-BDEF-65B4AF121349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB22A335-ECA3-4792-BDEF-65B4AF121349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB22A335-ECA3-4792-BDEF-65B4AF121349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
