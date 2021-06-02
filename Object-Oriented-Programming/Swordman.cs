@@ -11,5 +11,11 @@ namespace Object_Oriented_Programming
     {
         public Swordman(string name) : base(name) { }
         public Swordman() : base() { }
+
+        // Swordman 複寫 父類別方法
+        public override string PassiveSkill()
+        {
+            return name + base.PassiveSkill() + "攻擊弱點";
+        }
     }
 }
