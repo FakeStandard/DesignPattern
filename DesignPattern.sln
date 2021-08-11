@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object-Oriented-Programming", "Object-Oriented-Programming\Object-Oriented-Programming.csproj", "{DB22A335-ECA3-4792-BDEF-65B4AF121349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple-factory-pattern", "Simple-factory-pattern\Simple-factory-pattern.csproj", "{E2BC9041-BD60-47E4-A0A2-0DEAB5C88CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple-factory-pattern", "Simple-factory-pattern\Simple-factory-pattern.csproj", "{E2BC9041-BD60-47E4-A0A2-0DEAB5C88CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy-pattern", "Strategy-pattern\Strategy-pattern.csproj", "{8DA58844-8045-4C80-837A-204881F9BB3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E2BC9041-BD60-47E4-A0A2-0DEAB5C88CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2BC9041-BD60-47E4-A0A2-0DEAB5C88CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2BC9041-BD60-47E4-A0A2-0DEAB5C88CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA58844-8045-4C80-837A-204881F9BB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA58844-8045-4C80-837A-204881F9BB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA58844-8045-4C80-837A-204881F9BB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA58844-8045-4C80-837A-204881F9BB3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
